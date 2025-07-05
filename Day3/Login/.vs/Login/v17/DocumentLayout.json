@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tatvasoft2\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|d:\\tatvasoft2\\login\\loginpage\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|d:\\tatvasoft2\\login\\loginpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|d:\\tatvasoft2\\login\\loginpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|d:\\tatvasoft2\\login\\loginpage\\views\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\views\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|d:\\tatvasoft2\\login\\loginpage\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|d:\\tatvasoft2\\login\\loginpage\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F244711-65A7-4FA9-AB16-5CDA3E3D4604}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\tatvasoft2\\Login\\LoginPage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginPage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\tatvasoft2\\Login\\LoginPage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginPage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T05:20:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\tatvasoft2\\Login\\LoginPage\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LoginPage\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\tatvasoft2\\Login\\LoginPage\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LoginPage\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T05:20:14.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tatvasoft2\\Login\\LoginPage\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginPage\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\tatvasoft2\\Login\\LoginPage\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "LoginPage\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T05:19:55.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\tatvasoft2\\Login\\LoginPage\\Views\\Login.razor",
+              "RelativeDocumentMoniker": "LoginPage\\Views\\Login.razor",
+              "ToolTip": "D:\\tatvasoft2\\Login\\LoginPage\\Views\\Login.razor",
+              "RelativeToolTip": "LoginPage\\Views\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T05:09:19.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\tatvasoft2\\Login\\LoginPage\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\tatvasoft2\\Login\\LoginPage\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LoginPage\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:04:35.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\tatvasoft2\\Login\\LoginPage\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\tatvasoft2\\Login\\LoginPage\\Models\\LoginModel.cs",
+              "RelativeToolTip": "LoginPage\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:03:35.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
